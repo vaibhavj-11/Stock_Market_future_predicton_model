@@ -9,12 +9,4 @@ Forecasting the future 30 day stock prices using Stacked LSTM - Deep Learning
 
 Modules required:
 
-numpy
-pandas
-matplotlib
-sklearn
-tensorflow
-keras
-Sequential
-Dense
-LSTM
+numpy, pandas, matplotlib, sklearn, tensorflow, keras, Sequential, Dense, LSTM
