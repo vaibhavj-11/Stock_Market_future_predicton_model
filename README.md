@@ -9,4 +9,15 @@ Forecasting the future 30 day stock prices using Stacked LSTM - Deep Learning
 
 Modules required:
 
-numpy, pandas, matplotlib, sklearn, tensorflow, keras, Sequential, Dense, LSTM
+numpy
+pandas
+matplotlib
+sklearn
+tensorflow
+keras
+Sequential
+Dense
+LSTM
+
+The future 30 day predicted graph
+![image](https://github.com/vaibhavj-11/Stock_Market_future_predicton_model/assets/71918594/95a04cd9-a954-4d7e-a844-13ed7316744f)
