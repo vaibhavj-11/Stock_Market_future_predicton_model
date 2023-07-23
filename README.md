@@ -19,6 +19,6 @@ Sequential,
 Dense,
 LSTM.
 
-The future 30 day predicted graph
+The future 30 day predicted graph for apple stock prices (AAPL)
 
 ![image](https://github.com/vaibhavj-11/Stock_Market_future_predicton_model/assets/71918594/95a04cd9-a954-4d7e-a844-13ed7316744f)
